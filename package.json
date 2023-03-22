@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "go-team",
+  "description": "Module 10 Challenge: Object-Oriented Programming Challenge: Team Profile Generator",
+  "version": "8.2.4",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarnoire/go-team.git"
+  },
+  "author": "Sarah DeSantis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarnoire/go-team/issues"
+  },
+  "homepage": "https://github.com/sarnoire/go-team#readme"
+}
