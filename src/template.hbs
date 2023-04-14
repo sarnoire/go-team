@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Team Roster</title>
+  </head>
+  <body>
+    <h1>Team Roster</h1>
+    {{#each employees}}
+    <div>
+      <h2>{{this.name}}</h2>
+      <p>ID: {{this.id}}</p>
+      <p>Email: {{this.email}}</p>
+      {{#if this.officeNumber}}
+      <p>Office Number: {{this.officeNumber}}</p>
+      {{/if}}
+      {{#if this.github}}
+      <p>GitHub: <a href="https://github.com/{{this.github}}" target="_blank">{{this.github}}</a></p>
+      {{/if}}
+      {{#if this.school}}
+      <p>School: {{this.school}}</p>
+      {{/if}}
+    </div>
+    {{/each}}
+  </body>
+</html>
