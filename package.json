@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.5"
   },
   "name": "go-team",
   "description": "Module 10 Challenge: Object-Oriented Programming Challenge: Team Profile Generator",
@@ -9,7 +11,6 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
