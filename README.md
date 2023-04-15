@@ -3,6 +3,8 @@
 
 ## Description
 Node.js App to create a HTML page displaying Team Profiles 
+![image](https://user-images.githubusercontent.com/115049982/232255138-e8456ab7-114f-48c3-a96d-7db034ce06d5.png)
+
 
 ## Installation
 + Node.js
@@ -22,7 +24,7 @@ Resources Links:
 + https://www.tutorialsteacher.com/nodejs/nodejs-modules
 
 Project Links:
-+ Git Hub Repo:
-+ Demo Video:
++ Git Hub Repo: https://github.com/sarnoire/go-team
++ Demo Video: https://drive.google.com/file/d/1SPbIJfYeutn9L1MrvpSjdNUe2ALlnLru/view
 
 
