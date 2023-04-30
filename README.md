@@ -13,7 +13,6 @@ Node.js App to create a HTML page displaying Team Profiles
 + handlebars ^4.7.7
 + inquirer ^8.2.5
 
-
 ## Resources
 + Class resources - old activities & mini projects
 
@@ -22,9 +21,15 @@ Resources Links:
 + https://handlebarsjs.com/installation/#npm-or-yarn-recommended
 + https://jestjs.io/docs/getting-started
 + https://www.tutorialsteacher.com/nodejs/nodejs-modules
++ https://github.com/SBoudrias/Inquirer.js/
++ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
++ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
++ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
++ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
++ https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
 
 Project Links:
 + Git Hub Repo: https://github.com/sarnoire/go-team
-+ Demo Video: https://drive.google.com/file/d/1SPbIJfYeutn9L1MrvpSjdNUe2ALlnLru/view
++ Demo Video: https://drive.google.com/file/d/11dY2xI_p1Io4CVKwLJUNqVA0UMG76FuP/view
 
 
